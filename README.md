@@ -10,7 +10,7 @@
 
 | 图标 | 名称 | 原始 | 镜像 |
 |:---:|:---:|:---:|:---:|
-| 🔥 | 2元1T机场 | [进入](https://kelayun.notepin.co) | - |
+| 🔥 | 2元1T机场 | [进入](https://kelayun.notepin.co) | UaJ7Gzh.6XwT.dv|
 | ⚡ | 镜像仓库 | [进入](https://codeberg.org/Jsnzkpg/Jsnzkpg) | - |
 | ✈️ | TG频道 | [进入](https://t.me/stymei) | - |
 | ✈️ | 备用频道 | [进入](https://t.me/pyapk) | - |
